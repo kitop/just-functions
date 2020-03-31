@@ -1,3 +1,4 @@
 [build]
   functions = "functions"
   publish = "site"
+  command = "echo 'fake building'"
