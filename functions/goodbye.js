@@ -4,6 +4,6 @@ exports.handler = function(event, context, callback) {
     headers: {
       "X-Example": "1"
     },
-    body: "The other function is a liar, it's not alone. I am here too."
+    body: "Goodbye, I'm just another function."
   });
 };
